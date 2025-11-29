@@ -1,10 +1,5 @@
 <img src="resources/HSD_Marke_v4_HSD_RotCMYK_EI_Schw_v2.jpg#gh-dark-mode-only" width="512">
 <img src="resources/HSD_Marke_v4_HSD_RotRGB_EI_Schw_v2.png#gh-light-mode-only" width="512">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="bild_dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="bild_light.png">
-  <img alt="Logo" src="bild_light.png">
-</picture>
 
 # Embedded Systems II – Praktikum
 
