@@ -1,4 +1,4 @@
-![HSD EI](resources/HSD_Marke_v4_HSD_RotCMYK_EI_Schw_v2.jpg =250x)
+<img src="resources/HSD_Marke_v4_HSD_RotCMYK_EI_Schw_v2.jpg" width="48">
 
 # Embedded Systems II – Praktikum
 
@@ -15,6 +15,6 @@ Viel Spaß und Erfolg wünscht Ihnen das gesammte **InfLab-Team**!
 
 *Resourcen:  
 [Arduino IDE](https://www.arduino.cc/en/software/)  
-[Arduino Due]([www.arduino.com](https://docs.arduino.cc/hardware/due/))  
+[Arduino Due](https://docs.arduino.cc/hardware/due/)  
 [Seeeduino v4](https://wiki.seeedstudio.com/Seeeduino_v4.2/)  
 [GroveKit](https://wiki.seeedstudio.com/Grove_System/)*
