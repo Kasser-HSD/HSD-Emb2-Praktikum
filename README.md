@@ -1,4 +1,4 @@
-![HSD EI](resources/HSD_Marke_v4_HSD_RotCMYK_EI_Schw_v2.jpg | width=100)
+![HSD EI](resources/HSD_Marke_v4_HSD_RotCMYK_EI_Schw_v2.jpg =250x)
 
 # Embedded Systems II – Praktikum
 
