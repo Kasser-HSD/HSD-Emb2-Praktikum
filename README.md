@@ -1,5 +1,5 @@
 <img src="resources/HSD_Marke_v4_HSD_RotCMYK_EI_Schw_v2.jpg#gh-dark-mode-only)" width="512">
-<img src="resources/HSD_Marke_v4_HSD_RotRGB_EI_Schw_v2.jpg#gh-light-mode-only)" width="512">
+<img src="resources/HSD_Marke_v4_HSD_RotRGB_EI_Schw_v2.png#gh-light-mode-only)" width="512">
 
 # Embedded Systems II – Praktikum
 
