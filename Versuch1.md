@@ -62,18 +62,18 @@ Die Boards werden mit dem MicroUSB-Kabel an den PC angeschlossen und werden dar�
 Im ersten Schritt installieren Sie die IDE, indem Sie zunächst die Installationsdatei Arduino IDE 2 für Linux herunterladen. Die Datei befindet sich danach im Ordner Download und muss entpackt werden. Als Ziel bietet sich `~/arduino-ide` an. Anschließend muss die Datei arduino-ide als ausführbar gekennzeichnet werden. Dies kann in einem Terminal wie folgt geschehen:
 
 Variante A (Appimage):
-```batch
+```shell
 cd ~/Downloads
 wget https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.6_Linux_64bit.AppImage
 chmod +x arduino-ide_2.3.6_Linux_64bit.AppImage
 ```
 Zukünftig können Sie die IDE mit einem einzigen Befehl starten:
-```batch
+```shell
 ~/Downloads/arduino-ide_2.3.6_Linux_64bit.AppImage --no-sandbox
 ```
 
 Variante B (Zip):
-```batch
+```shell
 cd ~/Downloads
 wget https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.6_Linux_64bit.zip
 unzip arduino-ide_2.3.6_Linux_64bit.zip
@@ -81,7 +81,7 @@ mv arduino-ide_2.3.6_Linux_64bit ~/arduino-ide
 chmod +x ~/arduino-ide/arduino-ide
 ```
 Zukünftig können Sie die IDE mit einem einzigen Befehl starten:
-```batch
+```shell
 ~/Downloads/arduino-ide_2.3.6_Linux_64bit.AppImage --no-sandbox
 ```
 
@@ -115,8 +115,10 @@ dürfen.
   
 - Öffnen Sie ein Terminal und führen die nachfolgenden Schritte aus.
   
-  - Konfigurieren Sie den Credential Helper so, dass der Token nur für diese Sitzung gespeichert wird. Setzen Sie den Timer hoch, so dass der Token für die Dauer des Versuches nicht aus dem Cache entfernt wird.  
-  `git config --global credential.helper 'cache --timeout=7200'`
+  - Konfigurieren Sie den Credential Helper so, dass der Token nur für diese Sitzung gespeichert wird. Setzen Sie den Timer hoch, so dass der Token für die Dauer des Versuches nicht aus dem Cache entfernt
+```shell
+git config --global credential.helper 'cache --timeout=7200'
+```
   
   - Teilen Sie dem Programm git Ihren Nutzernamen und Emailadresse mit.
   
