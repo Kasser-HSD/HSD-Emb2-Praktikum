@@ -48,8 +48,9 @@ Falls Ihnen ihr Gruppenpartner oder Ihre Gruppenpartnerin bekannt ist, fügen Si
 
 Für die Versuche stehen zwei verschiedene Mikrocontroller (ATmega328P auf einem SeeeduinoV4-Board (rot), ARM Cortex M0 auf einem Arduino Due (grün)) zur Verfügung. Zur Erweiterung mit Sensoren und Aktoren können Sie das Grove-Starter Kit nutzen. Achten Sie darauf, dass der Schiebeschalter auf die korrekte Spannung gestellt ist, bevor Sie das Board mit dem PC verbinden.
 
-### <p style="text-align:center"><font color="red">Rotes Board → 5V</font></p>
-### <p style="text-align:center"><font color="green">Grünes Board → 3,3V</font></p>
+<img alt="Rotes Board → 5V Grünes Board → 3,3V" src="https://github.com/user-attachments/assets/639f0f05-3ff7-45f4-a4ad-b5f8e8149df5#gh-light-mode-only" />
+
+
 
 Die Boards werden mit dem MicroUSB-Kabel an den PC angeschlossen und werden darüber auch mit der nötigen Betriebsspannung versorgt.
 
