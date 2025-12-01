@@ -12,6 +12,9 @@ Bei Fragen melden Sie sich in der Vorlesung oder während den Praktika bei den M
 
 Für die Anleitungen lesen Sie sich die jeweiligen Versuchsbeschreibungen sowie die Anleitung für `git` durch.  
 [Versuch 1](../../wiki/Versuch1)
+[Versuch 2](../../wiki/Versuch2)
+[Versuch 3](../../wiki/Versuch3)
+[Versuch 4](../../wiki/Versuch4)
 
 Viel Spaß und Erfolg wünscht Ihnen das gesammte **InfLab-Team**!
 
