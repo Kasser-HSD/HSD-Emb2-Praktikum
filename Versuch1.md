@@ -1,7 +1,7 @@
 <img src="https://github.com/user-attachments/assets/ee957726-a971-4228-80aa-eb613d5ee2a3#gh-dark-mode-only" width="512">
 <img src="https://github.com/user-attachments/assets/e1048d2f-873f-4170-ba79-cb7fb7549ccf#gh-light-mode-only" width="512">
 
-# Embedded Systems II – Praktikum - Versuch 1 
+# Embedded Systems II – Praktikum </br></br> Versuch 1 
 
 
 ## 1. Einleitung
@@ -53,7 +53,9 @@ Für die Versuche stehen zwei verschiedene Mikrocontroller (ATmega328P auf einem
 
 Die Boards werden mit dem MicroUSB-Kabel an den PC angeschlossen und werden darüber auch mit der nötigen Betriebsspannung versorgt.
 
-<!-- Drei Bilder Hier einfügen -->
+<img width="500" height="310" alt="seeduino_5v" src="https://github.com/user-attachments/assets/c486f5c3-d531-430e-bcaa-2c10c7381146" />
+<img width="500" height="310" alt="due_3v3" src="https://github.com/user-attachments/assets/a9ef9bf3-49fe-4c61-b9a7-c61b2956b11a" />
+
 
 ## 4 Versuchsdurchführung
 
@@ -116,9 +118,9 @@ dürfen.
 - Öffnen Sie ein Terminal und führen die nachfolgenden Schritte aus.
   
   - Konfigurieren Sie den Credential Helper so, dass der Token nur für diese Sitzung gespeichert wird. Setzen Sie den Timer hoch, so dass der Token für die Dauer des Versuches nicht aus dem Cache entfernt
-```shell
-git config --global credential.helper 'cache --timeout=7200'
-```
+    ```shell
+    git config --global credential.helper 'cache --timeout=7200'
+    ```
   
   - Teilen Sie dem Programm git Ihren Nutzernamen und Emailadresse mit.
   
