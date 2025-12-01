@@ -27,5 +27,5 @@ deaktivieren, sobald die Solltemperatur mit dem Taster bestätigt wurde oder ein
 Sekunden eingetreten ist.
 
 Der Stellmotor könnte alle drei Sekunden bedient werden. Ist die Solltemperatur erreicht, soll der
-Stellmotor auf 50% eingestellt sein, bei -5K Abweichung auf 100% und 0% bei +5K. Werte zwischen -5K und +5K
+Stellmotor auf 50% eingestellt sein, bei -5°K Abweichung auf 100% und 0% bei +5°K. Werte zwischen -5°K und +5°K
 sollen entsprechend sinnvoll zwischen 100% und 0% liegen.
