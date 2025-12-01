@@ -11,7 +11,7 @@ Danach können sie das Repository forken und die Versuche bearbeiten.
 Bei Fragen melden Sie sich in der Vorlesung oder während den Praktika bei den Mitarbeitern.
 
 Für die Anleitungen lesen Sie sich die jeweiligen Versuchsbeschreibungen sowie die Anleitung für `git` durch.  
-[Versuch 1](Versuch1.md)
+[Versuch 1](wiki/Versuch1)
 
 Viel Spaß und Erfolg wünscht Ihnen das gesammte **InfLab-Team**!
 
