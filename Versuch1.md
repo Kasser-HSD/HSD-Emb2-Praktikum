@@ -46,7 +46,11 @@ Falls Ihnen ihr Gruppenpartner oder Ihre Gruppenpartnerin bekannt ist, fügen Si
 
 ## 3 Hardware
 
+<img width="470" height="290" alt="seeeduino_v422" src="https://github.com/user-attachments/assets/398c29da-dc33-4d41-8c95-b3c22709ec7d" />
+<img width="470" height="290" alt="arduino_due2" src="https://github.com/user-attachments/assets/f631eaf8-1ee9-4ccb-8bf7-499dc70bf6e8" />
+
 Für die Versuche stehen zwei verschiedene Mikrocontroller (ATmega328P auf einem SeeeduinoV4-Board (rot), ARM Cortex M0 auf einem Arduino Due (grün)) zur Verfügung. Zur Erweiterung mit Sensoren und Aktoren können Sie das Grove-Starter Kit nutzen. Achten Sie darauf, dass der Schiebeschalter auf die korrekte Spannung gestellt ist, bevor Sie das Board mit dem PC verbinden.
+
 
 <img alt="Rotes Board → 5V Grünes Board → 3,3V" src="https://github.com/user-attachments/assets/639f0f05-3ff7-45f4-a4ad-b5f8e8149df5#gh-light-mode-only" />
 <img alt="Rotes Board → 5V Grünes Board → 3,3V" src="https://github.com/user-attachments/assets/eb2357a2-efbc-45ed-a8ab-07cc5846fc84#gh-dark-mode-only" />
