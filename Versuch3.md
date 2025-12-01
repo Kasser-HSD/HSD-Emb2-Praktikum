@@ -16,7 +16,8 @@ diesem Versuch ist es, die verschiedenen Teile Ihres Programms in sinnvolle Task
 
 Zunächst installieren Sie die Bibliothek TaskSched:
 
-<!-- Bild hier einfügen-->
+![Versuch 3_arduino](https://github.com/user-attachments/assets/c6d66640-dd25-4ab4-8a32-402f07856866)
+
 
 Überlegen Sie, welche Teile Ihres Programms unabhängig voneinander laufen können. Z.B.
 Temperaturmessung, Stellmotor, Display, Eingabe.
