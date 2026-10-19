@@ -70,7 +70,11 @@ Im ersten Schritt installieren Sie die IDE, indem Sie zunächst die Installation
 Variante A (Appimage):
 ```shell
 cd ~/Downloads
+```
+```shell
 wget https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.6_Linux_64bit.AppImage
+```
+```shell
 chmod +x arduino-ide_2.3.6_Linux_64bit.AppImage
 ```
 Zukünftig können Sie die IDE mit einem einzigen Befehl starten:
@@ -81,9 +85,17 @@ Zukünftig können Sie die IDE mit einem einzigen Befehl starten:
 Variante B (Zip):
 ```shell
 cd ~/Downloads
+```
+```shell
 wget https://downloads.arduino.cc/arduino-ide/arduino-ide_2.3.6_Linux_64bit.zip
+```
+```shell
 unzip arduino-ide_2.3.6_Linux_64bit.zip
+```
+```shell
 mv arduino-ide_2.3.6_Linux_64bit ~/arduino-ide
+```
+```shell
 chmod +x ~/arduino-ide/arduino-ide
 ```
 Zukünftig können Sie die IDE mit einem einzigen Befehl starten:
