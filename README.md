@@ -19,7 +19,8 @@ Für die Anleitungen lesen Sie sich die jeweiligen Versuchsbeschreibungen sowie 
 Viel Spaß und Erfolg wünscht Ihnen das gesammte **InfLab-Team**!
 
 *Resourcen:  
+[How To GIT](https://github.com/Kasser-HSD/HSD-Emb2-Praktikum/wiki/Anleitung-Git)  
 [Arduino IDE](https://www.arduino.cc/en/software/)  
 [Arduino Due](https://docs.arduino.cc/hardware/due/)  
 [Seeeduino v4](https://wiki.seeedstudio.com/Seeeduino_v4.2/)  
-[GroveKit](https://wiki.seeedstudio.com/Grove_System/)*
+[GroveKit](https://wiki.seeedstudio.com/Grove_System/)*  
